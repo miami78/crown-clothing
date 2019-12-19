@@ -1,14 +1,8 @@
-crown-clothing
-An e-commerce website
+## crown-clothing
+An e-commerce website made with React
 
-Setup
-Clone the repository.
-
-git clone https://github.com/miami78/crown-clothing.git
-cd into the directory and install dependencies
-
-cd HomeExpo
-npm install
-Start
-
-npm start
+## Setup
+* Clone the repository.
+* cd into the directory and install dependencies
+* npm install or yarn
+* npm start/yarn start
