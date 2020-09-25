@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+
     "firebase": "6.0.2",
     "node-sass": "4.13.1",
     "react": "^16.8.6",
@@ -15,6 +16,7 @@
   },
   "resolutions": {
     "babel-jest": "24.7.1"
+
   },
   "scripts": {
     "start": "react-scripts start",
